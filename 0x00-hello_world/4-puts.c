@@ -5,10 +5,8 @@
 #include <stdio.h>
 
 /**
- * main() - function that can only be called
- *
- * Return:
- * 0
+ * main - function
+ * Return: 0
  */
 int main(void)
 {
