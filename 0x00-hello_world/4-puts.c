@@ -5,7 +5,7 @@
 #include <stdio.h>
 
 /**
-* main - This is a description
+ * main - This is a description
 *
 * Description: Really don't care
 * Return: 0
