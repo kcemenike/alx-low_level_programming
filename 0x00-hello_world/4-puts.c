@@ -5,11 +5,11 @@
 #include <stdio.h>
 
 /**
- * main - This is a description
-*
-* Description: Really don't care
-* Return: 0
-*/
+ * main() - function that can only be called
+ *
+ * Return:
+ * 0
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
