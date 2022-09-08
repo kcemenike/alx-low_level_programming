@@ -7,6 +7,7 @@
 /**
  * main - Entry point
  *
+ * Description: Really don't care
  * Return: Always 0 (Success)
  */
 int main(void)
