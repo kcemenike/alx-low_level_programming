@@ -1,13 +1,9 @@
-/**
- * File:    4-puts.c
- * Author:  KC EMENIKE
- **/
 #include <stdio.h>
 
 /**
- * main - main block
- * Description: returns zero
- * Return: 0
+ * main - entry point for the program
+ *
+ * Return: Displays a message to the terminal.
  */
 int main(void)
 {
