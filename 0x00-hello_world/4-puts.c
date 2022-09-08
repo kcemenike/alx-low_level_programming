@@ -5,7 +5,8 @@
 #include <stdio.h>
 
 /**
- * main - function
+ * main - main block
+ * Description: returns zero
  * Return: 0
  */
 int main(void)
