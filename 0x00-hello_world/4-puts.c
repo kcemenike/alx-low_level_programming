@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - entry point for the program
+ * main - entry point
  *
- * Return: Displays a message to the terminal.
+ * Return: 0
  */
 int main(void)
 {
