@@ -1,8 +1,10 @@
 #include "main.h"
 
 /**
- * main
- * Return: 0
+ * main - program entry point
+ *
+ * Description
+ * Return: 0 (Successful)
  */
 
 int main(void)
