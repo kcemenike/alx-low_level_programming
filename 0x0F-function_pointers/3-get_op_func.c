@@ -1,9 +1,9 @@
 #include <stdlib.h>
 #include "3-calc.h"
 /**
- * get_op_func - get funtion
+ * get_op_func - get function
  *
- * @s: pointer to funtion
+ * @s: pointer to function
  *
  * Return: Integer
  */
