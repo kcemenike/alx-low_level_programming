@@ -23,6 +23,7 @@ int op_sub(int a, int b)
 {
 	return (a - b);
 }
+
 /**
  * op_mul - Product of two integers
  *
@@ -35,6 +36,7 @@ int op_mul(int a, int b)
 {
 	return (a * b);
 }
+
 /**
  * op_div - Result of the dividion os two integers
  *
@@ -47,6 +49,7 @@ int op_div(int a, int b)
 {
 	return (a / b);
 }
+
 /**
  * op_mod - Remainder of the division
  *
